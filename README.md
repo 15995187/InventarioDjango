@@ -1,2 +1,2 @@
 # Taller IUJO Seccion A
-Realizado por: Duein Radaq
+Realizado por: Duein Rada
